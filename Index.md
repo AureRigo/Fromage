@@ -20,3 +20,4 @@ https://fr.wikipedia.org/wiki/Beaufort_(fromage)
 https://fr.wikipedia.org/wiki/Comt%C3%A9_(fromage)
 
 Vous pouvez aussi visiter ma page sur la Cancoillotte et le Mont-d'Or:
+https://github.com/AureRigo/Fromage/blob/2e1222ea9d7b3200c94ffcd101e39cacfc3212a0/page2
